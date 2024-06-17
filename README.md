@@ -20,10 +20,6 @@ Server Side Technologies: Nodejs, PHP
 
 Server Side Frameworks: NodeJS
 
-Database: Postgres, SQL, MySQL, phpMyAdmin
+Database: PostgreSQL, SQL, MySQL, phpMyAdmin, Oracle
 
-Projects Portfolios:
-Marketing appliation for Real Estate(Having 9 clients)
-Actute kidney diagnosis tool for Ahmedabad Civil Hospital
-
-Thank you
+Thank you for visiting !
