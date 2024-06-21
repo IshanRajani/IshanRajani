@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
-Hii,
+Hi,
 
 My name is Ishan Rajani, I am a sr. software developer as well as technical trainer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Development with strong command in managing live projects.
 
