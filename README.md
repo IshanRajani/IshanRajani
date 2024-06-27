@@ -20,6 +20,6 @@ Server Side Technologies: Nodejs, PHP
 
 Server Side Frameworks: NodeJS
 
-Database: PostgreSQL, SQL, MySQL, phpMyAdmin, Oracle, Firebase
+Database: PostgreSQL, SQL, MySQL, phpMyAdmin, Oracle, Firebase, MongoDB
 
 Thank you for visiting !
