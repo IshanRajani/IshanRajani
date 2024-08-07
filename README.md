@@ -16,7 +16,7 @@ Programming Language : php, Laravel, C++, JavaScript, Python
 Clientside Web Technologies: AngularJS, NodeJS, HTML, CSS, Bootstrap
 Frontend Libraries :ReactJs, Material UI
 
-Server Side Technologies: Nodejs, PHP
+Server Side Technologies: Nodejs, PHP, Django
 
 Server Side Frameworks: NodeJS
 
