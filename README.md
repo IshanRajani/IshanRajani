@@ -3,7 +3,7 @@
 
 Hi,
 
-My name is Ishan Rajani, I am a sr. software developer as well as technical trainer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Development with strong command in managing live projects.
+My name is Ishan K Rajani, I am a sr. software developer as well as technical trainer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Development with strong command in managing live projects.
 
 Email : ishanrajani@gmail.com
 Linkedin Profile : https://www.linkedin.com/in/ishan-rajani-6a558b50/
