@@ -11,15 +11,11 @@ You can take an overview of my technology stack and highlighted project here.
 
 Technology Stack
 
-Programming Language : php, Laravel, C++, JavaScript, Python
+Programming Language : python, Laravel, C++, JavaScript, code igniter
 
-Clientside Web Technologies: AngularJS, NodeJS, HTML, CSS, Bootstrap
+Other technology and frameworks: AngularJS, NodeJS, HTML, CSS, Bootstrap
 Frontend Libraries :ReactJs, Material UI
 
-Server Side Technologies: Nodejs, PHP, Django
-
-Server Side Frameworks: NodeJS
-
-Database: PostgreSQL, SQL, MySQL, phpMyAdmin, Oracle, Firebase, MongoDB
+DB tools: PostgreSQL, SQL, MySQL, phpMyAdmin, Oracle, Firebase, MongoDB
 
 Thank you for visiting !
