@@ -13,7 +13,7 @@ Technology Stack
 
 Programming Language : python, Laravel, C++, JavaScript, code igniter
 
-Other technology and frameworks: AngularJS, NodeJS, HTML, CSS, Bootstrap
+Other technology and frameworks: AngularJS, NodeJS, HTML, CSS, Bootstrap, dJango, flask
 Frontend Libraries :ReactJs, Material UI
 
 DB tools: PostgreSQL, SQL, MySQL, phpMyAdmin, Oracle, Firebase, MongoDB
