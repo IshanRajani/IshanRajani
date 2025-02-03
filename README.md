@@ -11,7 +11,7 @@ You can take an overview of my technology stack and highlighted project here.
 
 Technology Stack
 
-Programming Language : python, Java, Laravel, C++, JavaScript, code igniter
+Programming Language : python, Java, Laravel, C++, JavaScript, code igniter.
 
 Other technology and frameworks: AngularJS, NodeJS, HTML, CSS, Bootstrap, dJango, flask
 Frontend Libraries :ReactJs, Material UI
