@@ -7,7 +7,7 @@ My name is Ishan K Rajani, I am a sr. full stack developer as well as technical 
 
 Email : ishanrajani@gmail.com
 Linkedin Profile : https://www.linkedin.com/in/ishan-rajani-6a558b50/
-You can take an overview of my technology stack and highlighted project here.
+You can take an overview of my technology stack and highlighted project below.
 
 Technology Stack
 
